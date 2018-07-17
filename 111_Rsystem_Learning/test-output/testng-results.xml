@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="83038" started-at="2018-07-17T03:37:13Z" finished-at="2018-07-17T03:38:36Z">
+  <suite name="Default suite" duration-ms="99066" started-at="2018-07-17T03:50:09Z" finished-at="2018-07-17T03:51:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="83038" started-at="2018-07-17T03:37:13Z" finished-at="2018-07-17T03:38:36Z">
+    <test name="Default test" duration-ms="99066" started-at="2018-07-17T03:50:09Z" finished-at="2018-07-17T03:51:48Z">
       <class name="naveen_Automation.Video__BrokenLink_Found">
-        <test-method status="PASS" signature="Handle_WindowsFrame()[pri:0, instance:naveen_Automation.Video__BrokenLink_Found@1700915]" name="Handle_WindowsFrame" duration-ms="72262" started-at="2018-07-17T09:07:13Z" finished-at="2018-07-17T09:08:25Z">
+        <test-method status="PASS" signature="Handle_WindowsFrame()[pri:0, instance:naveen_Automation.Video__BrokenLink_Found@1700915]" name="Handle_WindowsFrame" duration-ms="88226" started-at="2018-07-17T09:20:09Z" finished-at="2018-07-17T09:21:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Handle_WindowsFrame -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:naveen_Automation.Video__BrokenLink_Found@1700915]" name="tearDown" is-config="true" duration-ms="10752" started-at="2018-07-17T09:08:25Z" finished-at="2018-07-17T09:08:36Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:naveen_Automation.Video__BrokenLink_Found@1700915]" name="tearDown" is-config="true" duration-ms="10807" started-at="2018-07-17T09:21:37Z" finished-at="2018-07-17T09:21:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
