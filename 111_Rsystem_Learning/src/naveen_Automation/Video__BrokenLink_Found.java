@@ -30,7 +30,8 @@ public class Video__BrokenLink_Found {
 		
 		//dr.get("https://demo.codeforgeek.com/ajaxbox/");
 		
-		dr.get("https://google.com/");
+		//dr.get("https://google.com/");
+		dr.get("http://makemysushi.com/404?");
 		dr.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		dr.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
 		List<WebElement> list_link=dr.findElements(By.tagName("a"));
